@@ -1,7 +1,6 @@
 # Harvard CS50x: Introduction to Computer Science
 
-This repository documents my progress, problem set solutions, and projects completed during **CS50x** (Harvard University's entry-level computer science course).
-
+This repository documents my progress, problem set solutions, and projects completed during **CS50x**.
 ---
 
 ## 📌 Course Progress & Syllabus
