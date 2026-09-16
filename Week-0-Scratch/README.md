@@ -10,7 +10,7 @@ An arcade-style endless runner built in Scratch for **CS50x Week 0**. Test your 
 
 * **Objective:** Dodge cacti and rocks to survive as long as possible. Earn points continuously while running and set the highest score possible.
 * **Genre:** Endless Runner
-* **Difficulty:** Dynamic (Speed increases over time)
+* **Difficulty:** Normal
 
 ---
 
