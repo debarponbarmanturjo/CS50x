@@ -8,8 +8,8 @@ This repository documents my progress, problem set solutions, and projects compl
 | Week | Topic | Status | Completion Date | Tools / Language |
 | :---: | :--- | :---: | :---: | :---: |
 | **0** | Scratch | Completed | Sept 16, 2026 | Scratch |
-| **1** | C | In Progress | — | C |
-| **2** | Arrays | Pending | — | C |
+| **1** | C | Completed | Oct 02, 2026 | C |
+| **2** | Arrays | In Progress | — | C |
 | **3** | Algorithms | Pending | — | C |
 | **4** | Memory | Pending | — | C |
 | **5** | Data Structures | Pending | — | C |
@@ -29,4 +29,8 @@ This repository documents my progress, problem set solutions, and projects compl
 ├── Week-0-Scratch/
 │   ├── project.sb3
 │   └── README.md
+├── Week-1-C/
+|   ├── hello.c
+|   ├── mario.c
+│   └── cash.c
 └── README.md
