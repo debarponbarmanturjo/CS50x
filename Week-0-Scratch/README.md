@@ -1,6 +1,6 @@
 # Week 0: Scratch – Endless Runner Game
 
-An arcade-style endless runner built in Scratch for **CS50x Week 0**. Test your timing and reflexes as obstacles approach faster over time!
+An arcade-style endless runner built in Scratch for **CS50x Week 0**. Test your timing and reflexes as obstacles!
 
 🔗 **Live Project Link:** [Play on Scratch](https://scratch.mit.edu/projects/1381478023/)
 
